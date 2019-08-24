@@ -38,6 +38,6 @@ A = 2
 B = 3
 C = A + B
 print(C)
-#D = x + A #Error
-#print(D) #Error
+#D = x + A #Error can't be add
+#print(D) #Error can't be print
 """----------Day4----------""""
