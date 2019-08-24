@@ -14,5 +14,5 @@ if 4>2:
  """for multi lines like this comment
 use " three times at the beginning
 and three times at the end
-of the command"""
+of the comment"""
 """----------Day3----------"""
