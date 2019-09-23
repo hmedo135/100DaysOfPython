@@ -24,21 +24,3 @@ print(FamilyDict2) #add 3 in 1 Dict
 dict4 = dict( name = 'hmedo' , old = 23 , phone = 966507720830, weight = 25 )
 #use = instead of : also don't use ' ' with keys 
 print(dict4) # to make a new dictionary
-
-
-print('Exercise1')#Exercise1
-set1 = { 1 , 3 , 5 , 7 , 8 }
-print(set1)
-set1.update({ 4 , 8 , 12 })
-print(set1)
-set1.discard( 8 )
-print(set1)
-set1.clear()
-print(set1)
-print('Exercise2')#Exercise2
-dict1 = { 'name' : 'pigeon' , 'type' : 'bird' , 'skin cover' : 'feathers' }
-print(dict1)
-print(dict1['type'])
-dict1['skin cover'] = 'small feather'
-print(dict1)
-
